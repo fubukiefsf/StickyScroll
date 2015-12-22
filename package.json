@@ -1,0 +1,22 @@
+{
+  "name": "StickyScroll",
+  "version": "1.0.0",
+  "description": "fork rickharris/StickyScroll#master",
+  "main": "jquery.stickyscroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fubukiefsf/StickyScroll.git"
+  },
+  "keywords": [
+    "StickyScroll"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/fubukiefsf/StickyScroll/issues"
+  },
+  "homepage": "https://github.com/fubukiefsf/StickyScroll"
+}
